@@ -1,0 +1,2 @@
+language = "java10"
+run = "mkdir -p build/classes && javac -d build/classes src/org/scouting/tools/OathTool.java && java -cp build/classes org.scouting.tools.OathTool"
